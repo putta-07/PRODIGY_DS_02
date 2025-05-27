@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# EDA on Titanic Dataset
 # Titanic Survival Prediction
 
 This notebook explores the Titanic dataset and builds a model to predict passenger survival.
